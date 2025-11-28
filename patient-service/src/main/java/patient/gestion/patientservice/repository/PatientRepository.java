@@ -1,0 +1,7 @@
+package patient.gestion.patientservice.repository;
+
+import patient.gestion.patientservice.entities.Patient;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PatientRepository extends JpaRepository<Patient, Integer> {
+}
