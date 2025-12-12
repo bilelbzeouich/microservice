@@ -1,0 +1,10 @@
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\clients\MedecinRestClient.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\clients\PatientRestClient.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\controller\RdvRestController.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\entities\Rdv.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\model\Medecin.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\model\Patient.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\RdvServiceApplication.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\repository\RdvRepository.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\service\IServiceRdv.java
+C:\Users\bilel\Documents\DEV\JEE\Micorservice\rdv-service\src\main\java\rdv\rdvservice\service\ServiceRdv.java

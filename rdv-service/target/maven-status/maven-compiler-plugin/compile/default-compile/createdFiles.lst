@@ -1,0 +1,10 @@
+rdv\rdvservice\model\Medecin.class
+rdv\rdvservice\service\ServiceRdv.class
+rdv\rdvservice\repository\RdvRepository.class
+rdv\rdvservice\model\Patient.class
+rdv\rdvservice\clients\MedecinRestClient.class
+rdv\rdvservice\clients\PatientRestClient.class
+rdv\rdvservice\controller\RdvRestController.class
+rdv\rdvservice\entities\Rdv.class
+rdv\rdvservice\RdvServiceApplication.class
+rdv\rdvservice\service\IServiceRdv.class
